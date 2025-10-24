@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220" height="45" viewBox="0 0 220 45" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&amp;display=swap');
+        </style>
+    </defs>
+    <g fill="#4F46E5">
+        <!-- Main Logo Icon -->
+        <path d="M15 12 h6 v-6 h6 v6 h6 v6 h-6 v6 h-6 v-6 h-6 z" fill="#4F46E5"/>
+        
+        <!-- QuickConsult Text -->
+        <g transform="translate(40, 0)">
+            <text x="0" y="22" font-family="Inter, system-ui, sans-serif" font-weight="600" font-size="20" letter-spacing="-0.5">
+                QuickConsult
+            </text>
+        </g>
+        
+        <!-- 24/7 Text -->
+        <g transform="translate(160, 0)">
+            <text x="0" y="22" font-family="Inter, system-ui, sans-serif" font-weight="600" font-size="16" fill="#6366F1">
+                24/7
+            </text>
+        </g>
+        
+        <!-- Subtle Underline -->
+        <path d="M40 26 h140" stroke="#4F46E5" stroke-width="0.5" opacity="0.3"/>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="217" height="46" viewBox="0 0 217 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Medical Cross Icon -->
+    <path d="M23 0C35.7025 0 46 10.2975 46 23C46 35.7025 35.7025 46 23 46C10.2975 46 0 35.7025 0 23C0 10.2975 10.2975 0 23 0Z" fill="#5F6FFF"/>
+    <path d="M32 23H24V15C24 14.4477 23.5523 14 23 14C22.4477 14 22 14.4477 22 15V23H14C13.4477 23 13 23.4477 13 24C13 24.5523 13.4477 25 14 25H22V33C22 33.5523 22.4477 34 23 34C23.5523 34 24 33.5523 24 33V25H32C32.5523 25 33 24.5523 33 24C33 23.4477 32.5523 23 32 23Z" fill="white"/>
+    
+    <!-- QuickConsult Text -->
+    <text x="60" y="32" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="#000B6D" letter-spacing="-0.5">QuickConsult</text>
+    
+    <!-- 24/7 Text -->
+    <text x="180" y="32" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#5F6FFF">24/7</text>
+</svg>
