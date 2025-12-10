@@ -22,7 +22,7 @@ const Navbar = () => {
         <div className='w-11 h-11 bg-primary rounded-full flex items-center justify-center text-white font-bold relative'>
           <span className='absolute top-[45%] transform -translate-y-1/2 text-[2.5rem] leading-none'>+</span>
         </div>
-        <div className='text-primary text-xl font-semibold'>
+        <div className='text-[#000B6D] text-xl font-semibold'>
           QuickConsult <span>24/7</span>
         </div>
       </div>
